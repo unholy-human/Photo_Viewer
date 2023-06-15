@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_u.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\u.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_n.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\n.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_c.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_l.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\l.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_w.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\w.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_p.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\p.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_e.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\e.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_j.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\j.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_h.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\h.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_r.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_a.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\a.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_m.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\m.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_v.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\v.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_d.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\d.png"
+    },
+    {
+        "merged": "com.example.photoviewer.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.photoviewer.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_t.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_f.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\f.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_o.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_k.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\k.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_q.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\q.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_i.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_b.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_s.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_x.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\drawable_g.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\drawable\\g.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\8.0\\com.example.photoviewer.app-main-30:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    }
+]
